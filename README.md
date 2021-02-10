@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **brunoslds@gmail.com**
 
+<img align="right" alt="my octocat" width="500px" src="https://github.com/brunogrb/brunogrb/blob/main/my-octocat.png" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/brunosordilopesdasilva/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/brunosordilopesdasilva/" height="30" width="40" /></a>
