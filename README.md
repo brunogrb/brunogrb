@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Back-end (databases, APIs with automated tests)**
 
-- 💬 Ask me about **Angular, HTML, JavaScript, SCSS, NodeJS, MySQL**
+- 💬 Ask me about **Angular, HTML, JavaScript, TypeScript, SCSS, NodeJS, MySQL**
 
 - 📫 How to reach me **brunoslds@gmail.com**
 
